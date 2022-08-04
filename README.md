@@ -17,17 +17,18 @@
   
   <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="250"/>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  <a href="">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
+  </a>
+  <br>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" />
+  </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017)](https://git.io/streak-stats)
-![PoKai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pokai-huang0828/pokai-huang0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
