@@ -63,7 +63,7 @@
     
   </p>
 
-  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="360" width="380" align="right"/>
+  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="320" width="350" align="right"/>
   <br>
   <a href="">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
