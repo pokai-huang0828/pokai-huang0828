@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QX7nMrAHVN0FFD7EtK/giphy.gif" width="250"/>
+</div>
 <!--
 **pokai-huang0828/pokai-huang0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
