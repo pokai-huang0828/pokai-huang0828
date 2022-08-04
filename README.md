@@ -1,5 +1,3 @@
-# Hello World! 👋
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=F7F7F7&lines=Hello+!;My+name+is+PoKai+Huang;You+can+call+me+Kenny+!" alt="Typing SVG" />
   </a>
@@ -29,9 +27,9 @@
 </br>
 
 # Learning: 
- - Python
- - MySQL
- - Data analyse
+#### - Python
+#### - MySQL
+#### - Data analyse
  
 # Some Tools I Have Used and Learned 🚀:
 
