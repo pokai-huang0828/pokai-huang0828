@@ -20,16 +20,16 @@
 
 # About Me 💬: 
 
-#### - My name is PoKai Huang(黃柏凱), you can also call me Kenny 🙌🏻
-#### - I am a 30 year-old googler from Taiwan 🇹🇼
-#### - Keeping learning everyday to challenge myself 💻
+### - My name is PoKai Huang(黃柏凱), you can also call me Kenny 🙌🏻
+### - I am a 30 year-old googler from Taiwan 🇹🇼
+### - Keeping learning everyday to challenge myself 💻
 
 </br>
 
 # Learning: 
-#### - Python
-#### - MySQL
-#### - Data analyse
+### - Python
+### - MySQL
+### - Data analyse
  
 # Some Tools I Have Used and Learned 🚀:
 
@@ -66,14 +66,14 @@
 
   <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="320" width="350" align="right"/>
   <br>
-  <a href="">
+  <a href="https://github.com/pokai-huang0828">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
   </a>
   <br>
-  <a href="">
+  <a href="https://github.com/pokai-huang0828">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true" />
   </a>
-  <a href="">
+  <a href="https://github.com/pokai-huang0828">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" />
   </a>
 
