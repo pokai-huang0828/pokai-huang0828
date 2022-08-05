@@ -71,7 +71,7 @@
   
   </br>
 
-  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="290" width="250" align="right"/>
+  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="250" width="250" align="right"/>
   <a href="https://github.com/pokai-huang0828">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
   </a>
@@ -82,7 +82,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true" />
   </a>
   <a href="https://github.com/pokai-huang0828">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" />
   </a>
 
 
