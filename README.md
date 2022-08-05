@@ -82,7 +82,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true" />
   </a>
   <a href="https://github.com/pokai-huang0828">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr" hight="350" width="350"/>
   </a>
 
 
