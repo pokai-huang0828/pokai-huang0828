@@ -1,20 +1,23 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=C7D6D5&lines=Hello+!;My+name+is+PoKai+Huang ;You+can+call+me+Kenny+!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=A3DCF7&center=true&vCenter=true&lines=Hello+Visitor!+%3A);My+name+is+PoKai+Huang+~;You+can+also+call+me+Kenny!" alt="Typing SVG" /></a>
   </a>
   </br>
   <img src="https://media.giphy.com/media/9qIQcHFew1dAs/giphy.gif" hight="300" width="400" align="center"/>
   </br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=pokai-huang0828&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.instagram.com/pokai_huang0828/">
-    <img alt="Pokai's Instagram" width="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  <a href="https://discord.gg/8vQKP6K2">
-    <img alt="PoKai's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/po-kai-huang-697301205/">
-    <img alt="PoKai's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+  </br>
+  <p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </img>
+    <img src="https://komarev.com/ghpvc/?username=pokai-huang0828&style=flat-square&color=blue" alt=""/>
+    <a href="https://www.instagram.com/pokai_huang0828/">
+      <img alt="Pokai's Instagram" width="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    </a>
+    <a href="https://discord.gg/8vQKP6K2">
+      <img alt="PoKai's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/po-kai-huang-697301205/">
+      <img alt="PoKai's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+  </p>
 </div>
 
 
@@ -22,7 +25,7 @@
 
 ### - My name is PoKai Huang(黃柏凱), you can also call me Kenny 🙌🏻
 ### - I am a 30 year-old googler from Taiwan 🇹🇼
-### - Keeping learning everyday to challenge myself 💻
+### - Keeping learning everyday 💻
 
 </br>
 
@@ -30,6 +33,8 @@
 ### - Python
 ### - MySQL
 ### - Data analyse
+ 
+</br> 
  
 # Some Tools I Have Used and Learned 🚀:
 
@@ -63,13 +68,16 @@
 
     
   </p>
+  
+  </br>
 
-  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="320" width="350" align="right"/>
-  <br>
+  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" hight="290" width="250" align="right"/>
   <a href="https://github.com/pokai-huang0828">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=020017" />
   </a>
-  <br>
+  </br>
+  </br>
+  </br>
   <a href="https://github.com/pokai-huang0828">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true" />
   </a>
