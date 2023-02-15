@@ -24,7 +24,6 @@
 # About Me 💬: 
 
 ### - My name is PoKai Huang(黃柏凱), you can also call me Kenny 🙌🏻
-### - I am a 30 year-old googler from Taiwan 🇹🇼
 ### - Keeping learning everyday 💻
 
 </br>
