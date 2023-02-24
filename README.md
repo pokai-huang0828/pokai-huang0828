@@ -31,7 +31,6 @@
 # Learning: 
 ### - Python
 ### - SQL Server
-### - Data analyse
  
 </br> 
  
