@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Po-Kai%20Huang%20(Kenny)&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Technical%20Program%20Manager%20%7C%20Product%20%26%20Automation%20Engineer&descSize=15&descAlignY=58" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Po-Kai+Huang+(Kenny)+%F0%9F%91%8B;Technical+Project+Manager;Automation+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-kai-huang-697301205/)
 &nbsp;
@@ -32,7 +32,7 @@
 - Bridge engineering, QA, and enterprise customers for AI releases: ADAS · FCW · LDWS · DMS · Passenger Blurring
 - Build internal knowledge bases, runbooks, and tooling to cut support resolution time
 
-### 🔬 HCL Technologies × Google — Wireless Infra & Automation Engineer *(2022 – 2026)*
+### 🔬 HCL Technologies × Google — Wireless Infra & Automation Engineer technical lead *(2022 – 2026)*
 *Google Pixel LTE/IMS/5G testbeds · Python automation · Multi-region lab ops*
 
 - Maintained Amarisoft + Anritsu testbeds across Taiwan, India, and US labs
