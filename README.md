@@ -77,13 +77,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=tokyonight&hide_border=true" />
+<!-- 貢獻圖 + 整體統計 (一張卡) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pokai-huang0828&theme=tokyonight" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=tokyonight&show_icons=true&hide_border=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- 三欄小卡 -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pokai-huang0828&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pokai-huang0828&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pokai-huang0828&theme=tokyonight&utcOffset=+8"/></td>
+  </tr>
+</table>
 
 </div>
 
