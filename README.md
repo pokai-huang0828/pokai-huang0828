@@ -1,113 +1,107 @@
 <div align="center">
 
-## 👋 Hi, I'm **PoKai Huang (Kenny)**  
-**Software & Automation Engineer | LTE/IMS/5G Testbed Specialist**  
-** Student @ UTS – Master of Data Science & Innovation**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Po-Kai%20Huang%20(Kenny)&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Technical%20Program%20Manager%20%7C%20Product%20%26%20Automation%20Engineer&descSize=15&descAlignY=58" width="100%"/>
 
----
-
-### 🔗 Contact & Profiles  
-**Instagram:** https://www.instagram.com/pokai_huang0828/  
-**Discord:** https://discord.gg/8vQKP6K2  
-**LinkedIn:** https://www.linkedin.com/in/po-kai-huang-697301205/  
-
----
-
-### 👁️ Profile Views  
-<img src="https://komarev.com/ghpvc/?username=pokai-huang0828&style=flat-square&color=blue" alt=""/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-kai-huang-697301205/)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=pokai-huang0828&style=for-the-badge&color=0e75b6&label=Profile+Views)](https://github.com/pokai-huang0828)
 
 </div>
 
+---
+
+## 🧑‍💻 About Me
+
+> **Technical Project Manager** — bridging engineering, product, and customers to ship AI-powered features on time.
+
+- 🏢 **Now @ MiTAC** — Technical & acting PM for **VisionMax (VMX)** fleet camera AI product
+- 🎓 **MSc Data Science & Innovation** @ UTS, Sydney *(2025–2027)*
+- 🌐 **Prev @ HCLTech × Google** — LTE/IMS/5G Testbed Infra & Python Automation Engineer
+- 🌏 Cross-functional experience: **Taiwan · India · US · Australia**
+- 🎯 Open to: **TPM · Technical PM · SWE PM · Technical Account Manager**
 
 ---
 
-# 🧑🏻‍💻 About Me
-I am an engineer working on **Google Pixel Mobile Wireless** (via HCL), specializing in  
-**LTE / IMS / 5G testbed infrastructure, debugging, and automation development**.
+## 💼 Experience
 
-My work focuses on improving testbed stability, building Python automation tools, resolving infra-level issues, and supporting multi-region testing workflows across Taiwan, India, and the US.
+### 🏢 MiTAC — Technical Project Manager *(2026 – Present)*
+*Fleet camera AI · Jira-driven delivery · Global customer escalation*
 
-Currently studying **Master of Data Science & Innovation (UTS, 2025–2027)** while balancing engineering work and being a new father.
+- Own feature requirement lifecycle for **VisionMax (VMX)** across mutiple clients
+- Drive Jira triage, fix-version planning & sprint coordination toward **100K unit target**
+- Bridge engineering, QA, and enterprise customers for AI releases: ADAS · FCW · LDWS · DMS · Passenger Blurring
+- Build internal knowledge bases, runbooks, and tooling to cut support resolution time
 
----
+### 🔬 HCL Technologies × Google — Wireless Infra & Automation Engineer *(2022 – 2026)*
+*Google Pixel LTE/IMS/5G testbeds · Python automation · Multi-region lab ops*
 
-# 🔧 Core Technical Skills
-
-### **Wireless Infrastructure**
-- Amarisoft LTE/5G Testbeds
-- Anritsu MD8475 / MT8000
-- MME / YAML config tuning  
-- APN, PDN, ePDG, SIP, IMS registration debugging  
-- Log analysis: UE logs, SDM logs, always-on logs  
-
-### **Automation & Tools (Python)**
-- Config diff / validator tools  
-- Log parsing utilities  
-- Backup & infra health-check automation  
-- CSV / YAML transformer tools  
-- ADB-based workflows & automation  
-
-### **Systems / Platform**
-- Linux (Ubuntu/CentOS)  
-- Windows  
-- Git / SSH / Networking basics  
-- ADB, Mobile Harness (MH) workflows  
-
-### **Project & Cross-Team Skills**
-- Multi-region testbed management  
-- Collaboration with Google FTEs  
-- Weekly sync-ups, triage, debugging  
-- Device setup, shipping, logistics, TE validation
+- Maintained Amarisoft + Anritsu testbeds across Taiwan, India, and US labs
+- Built Python tools: config diff, log parsers, ADB workflows, YAML validators
+- Debugged APN/PDN/ePDG/SIP/IMS issues directly with Google FTEs
 
 ---
 
-# 🚀 Highlighted Responsibilities
+## 🛠️ Tech Stack
 
-- Maintain & troubleshoot **Pixel LTE/IMS testbeds** (Amarisoft + Anritsu)  
-- Coordinate test infrastructure across **Taiwan, India, US labs**  
-- Develop Python tools to automate repetitive engineering tasks  
-- Support Google FTEs by providing logs, analysis, and quick debugging  
-- Validate TE configurations (YAML / DIMENSION / MH compatibility)  
-- Improve testing workflows through documentation and tool creation  
+**Languages & Data**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-# 🧠 Currently Improving
-- Python automation & system scripting  
-- SQL / PostgreSQL (UTS coursework)  
-- Data engineering & analytics  
-- Advanced LTE/IMS/5G debugging  
-- Building reproducible infra tools  
+**Tools & PM**
 
----
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Activity
+**Domain**
 
-<a href="https://github.com/pokai-huang0828">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=dark&hide_border=true"/>
-</a>
-
-</br>
-
-<a href="https://github.com/pokai-huang0828">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=codeSTACKr&show_icons=true"/>
-</a>
-<a href="https://github.com/pokai-huang0828">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=codeSTACKr"/>
-</a>
+![Fleet AI](https://img.shields.io/badge/Fleet%20Camera%20AI-ADAS%20%7C%20DMS%20%7C%20FCW-2ea44f?style=for-the-badge)
+![5G](https://img.shields.io/badge/LTE%20%2F%205G-Wireless%20Infra-blueviolet?style=for-the-badge)
 
 ---
 
-# 🎯 Summary for Recruiters
-If you are looking for an engineer who:
+## 📈 Currently Growing
 
-✔ Can manage complex **wireless infra**  
-✔ Can debug LTE/IMS/5G **protocol-level issues**  
-✔ Can build **Python automation tools**  
-✔ Communicates well with global teams  
-✔ Handles device labs, TE setups, and infra maintenance  
-✔ Thrives in fast-paced technical environments  
-
-I’m confident I can contribute immediately and grow with the team.
+- 📊 Advanced SQL, data pipelines & analytics (UTS coursework)
+- 🤖 ML fundamentals & data engineering
+- 🗺️ Product roadmap strategy & OKR frameworks
+- ⚙️ Python scripting for infra automation
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pokai-huang0828&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pokai-huang0828&theme=tokyonight&show_icons=true&hide_border=true" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokai-huang0828&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Quick Reference for Recruiters
+
+| | |
+|:--|:--|
+| **Open to** | TPM · Technical PM · SWE PM · TAM |
+| **Domain depth** | Fleet AI cameras · Wireless testbed infra · Python automation |
+| **Strengths** | Cross-team coordination · Customer escalation · Jira roadmap ownership |
+| **Location** | Taiwan 🇹🇼 &nbsp;·&nbsp; Open to relocation / remote |
+| **Education** | MSc Data Science & Innovation, UTS (2025–2027) |
+| **Contact** | [LinkedIn ↗](https://www.linkedin.com/in/po-kai-huang-697301205/) |
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
