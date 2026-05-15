@@ -99,7 +99,7 @@
 
 | | |
 |:--|:--|
-| **Open to** | TPM · Technical PM · SWE PM · TAM |
+| **Open to** | TPM · PM · SWE PM · TAM |
 | **Domain depth** | Fleet AI cameras · Wireless testbed infra · Python automation |
 | **Strengths** | Cross-team coordination · Customer escalation · Jira roadmap ownership |
 | **Location** | Taiwan 🇹🇼 &nbsp;·&nbsp; Open to relocation / remote |
