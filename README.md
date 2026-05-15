@@ -18,7 +18,7 @@
 - 🎓 **MSc Data Science & Innovation** @ UTS, Sydney *(2025–2027)*
 - 🌐 **Prev @ HCLTech × Google** — LTE/IMS/5G Testbed Infra & Python Automation Engineer
 - 🌏 Cross-functional experience: **Taiwan · India · US · Australia**
-- 🎯 Open to: **TPM · Technical PM · SWE PM · Technical Account Manager**
+- 🎯 Open to: **TPM · Project Manager · SWE PM · Technical Account Manager**
 
 ---
 
